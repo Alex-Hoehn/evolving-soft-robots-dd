@@ -2,7 +2,7 @@
 This code repository contains the novel contributions introduced in the Master thesis "Evolving Soft Robots Via Discrete Diffusion models".
 
 The code itself has largely been adapted from both the original Evogym repository (https://github.com/EvolutionGym/evogym), 
-as well as the Score Entropy Discretion Diffusion repository (https://github.com/louaaron/Score-Entropy-Discrete-Diffusion).
+as well as the Score Entropy Discrete Diffusion repository (https://github.com/louaaron/Score-Entropy-Discrete-Diffusion).
 
 For the background and general approach of this implementation, please refer to the thesis.
 
